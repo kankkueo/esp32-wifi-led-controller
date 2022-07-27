@@ -1,2 +1,2 @@
 # esp32-wifi-led-controller
-Device to control LED lights through Wifi
+The software for a Wifi LED controller
